@@ -3,6 +3,7 @@ A web application for creating/generating Spotify cover arts. Play with your fav
 
 ## Sample Art
 Latest cover arts done by using Spotify Cover Art Generator. </br>
+
 ![Sample Cover Art 01](https://i.ibb.co/ssw9bdD/Spotify-Cover-Art.png)
 
 ## License & Copyright
